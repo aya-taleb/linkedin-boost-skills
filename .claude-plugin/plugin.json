@@ -1,7 +1,7 @@
 {
   "name": "linkedin-boost-skills",
   "description": "Claude skills that help a founder grow on LinkedIn across several businesses: posts, plans, hooks, DMs, comments, replies, inbox, carousels, profile and audits. Skills write; you post.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Aya Taleb",
     "url": "https://github.com/aya-taleb"
