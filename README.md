@@ -34,6 +34,7 @@ Then run `/linkedin-plan` to plan the week, and `/linkedin-post` to write the fi
 
 ## Good to know
 
+- Not affiliated with, sponsored or endorsed by LinkedIn. LinkedIn is a trademark of LinkedIn Corporation.
 - Nothing here posts, messages, scrapes or logs in to LinkedIn. Skills write; you post and send by hand.
 - One business per post. Logs and plans live in `~/.founder/social/linkedin/<business>/`.
 - Nothing is made up. Missing numbers come back as `{{your number}}` for you to fill in.
