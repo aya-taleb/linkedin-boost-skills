@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-howto
+expected_outcome: |
+  A slide plan of 6 to 10 slides for Lunch Lane, one idea per slide, short text, a cover and a last slide with one action, a slides.md file, a PDF built by the local tool in the lunch-lane carousels folder, the post text with a document fold check, nothing invented, and a reminder the user uploads.
+context:
+  scaffold_script: place-files.sh

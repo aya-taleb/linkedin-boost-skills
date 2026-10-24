@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-replies
+expected_outcome: |
+  Kim's reply in Frameleaf tone, no invented price (no revenue, pricing test planned), a next step such as a call; Pete's reply a friendly yes or a kind no based on fit, no invented facts. Both short, and Kim logged as a warm lead.
+context:
+  scaffold_script: place-files.sh

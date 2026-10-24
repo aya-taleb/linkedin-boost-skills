@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-hooks
+expected_outcome: |
+  Hook options for Lunch Lane built on the real proof (late twice in 11 weeks, 12:15 drop), scored by the local tool with the six checks, a pick with a reason, nothing invented, and a handoff to linkedin-post.
+context:
+  scaffold_script: place-files.sh

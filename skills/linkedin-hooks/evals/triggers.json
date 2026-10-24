@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "give me some hooks for a post about our pho truck selling out",
+    "which of these first lines is strongest?",
+    "my linkedin posts get no see more clicks, help me with the opening line",
+    "score these 5 hooks",
+    "better first line for this linkedin draft please",
+    "hook ideas for a post about our 140th beta user"
+  ],
+  "should_not_trigger": [
+    "write the full linkedin post about our pho truck",
+    "write a reel hook for instagram",
+    "audit my last 10 linkedin posts",
+    "make a carousel about lunch logistics",
+    "subject line ideas for my cold email",
+    "rewrite my linkedin headline"
+  ]
+}

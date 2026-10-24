@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-buyer-post
+expected_outcome: |
+  2 or 3 comment options for Lunch Lane in its tone, each doing a different job, no pitch or link, using only Lunch Lane proof, with a pick and a note that this person could buy so no pitch here and linkedin-dm later if she replies.
+context:
+  scaffold_script: place-files.sh

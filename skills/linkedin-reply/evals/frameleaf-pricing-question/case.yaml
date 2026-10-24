@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-pricing-question
+expected_outcome: |
+  Replies in Frameleaf tone; Kelly's pricing question not answered with invented pricing (beta, no pricing set yet per file, or placeholder) and flagged as a possible lead; Mark answered without naming or attacking competitors (off-limits); Sue thanked warmly without mentioning her child's details beyond her comment.
+context:
+  scaffold_script: place-files.sh

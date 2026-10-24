@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "plan my linkedin week",
+    "what should I post on linkedin this week for lunch lane",
+    "I have nothing to post on LinkedIn, help",
+    "make a linkedin content calendar for both my businesses",
+    "how many linkedin posts should I do for each venture next week",
+    "what's next on linkedin? I posted monday already"
+  ],
+  "should_not_trigger": [
+    "write tuesday's linkedin post about the pho truck",
+    "plan my instagram week",
+    "do my weekly review across all businesses",
+    "which of my linkedin posts did best last month",
+    "plan my day tomorrow",
+    "write a connection request to this office manager"
+  ]
+}

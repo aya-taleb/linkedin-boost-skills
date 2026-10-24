@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "audit my linkedin posts",
+    "which of my linkedin posts did best last month",
+    "why are my linkedin posts flopping, here are the numbers",
+    "review my last 10 linkedin posts with the analytics export",
+    "what's working on my linkedin for lunch lane",
+    "rank my posts by engagement rate"
+  ],
+  "should_not_trigger": [
+    "audit my instagram",
+    "review my linkedin profile",
+    "why did this other person's post go viral",
+    "plan my linkedin week",
+    "seo audit of my website",
+    "how is the business doing overall this week"
+  ]
+}

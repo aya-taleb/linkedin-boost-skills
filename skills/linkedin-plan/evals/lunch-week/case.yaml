@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-week
+expected_outcome: |
+  A plan.md in the lunch-lane folder with 3 posts, angles drawn from the three real events, topics rotated using posts.csv (the food truck topic was posted in the last 7 days), mixed post types, an engage list that does not invent people, and no scheduling.
+context:
+  scaffold_script: place-files.sh

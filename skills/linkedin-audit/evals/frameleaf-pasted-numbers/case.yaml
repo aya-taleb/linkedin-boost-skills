@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-pasted-numbers
+expected_outcome: |
+  Numbers put into a CSV and run through the script, rates computed, the caveat that 3 posts is a tiny sample, careful conclusions, three changes, saved to the frameleaf audit.md.
+context:
+  scaffold_script: place-files.sh

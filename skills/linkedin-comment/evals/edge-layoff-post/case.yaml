@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-layoff-post
+expected_outcome: |
+  The skill flags that this is a sensitive post and not a place to get noticed or promote. It offers at most a short, human note of support (or suggests skipping), with no mention of Lunch Lane or the user's business.
+context:
+  scaffold_script: place-files.sh

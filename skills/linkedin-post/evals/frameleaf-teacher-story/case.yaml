@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-teacher-story
+expected_outcome: |
+  A post for Frameleaf, not Lunch Lane, about the field trip video. No child names, no claims about learning outcomes, the class size left as a placeholder or left out, a fold preview, and the draft saved in the Frameleaf folder.
+context:
+  scaffold_script: place-files.sh

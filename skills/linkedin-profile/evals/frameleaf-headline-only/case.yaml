@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-headline-only
+expected_outcome: |
+  Three headline options leading with Frameleaf, each counted and within 220 characters, using Frameleaf words and avoiding its banned words, no learning outcome claims, no invented numbers beyond the file.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "what should I comment on this linkedin post",
+    "help me write a smart comment on my potential customer's post",
+    "I want to engage with this founder's post, here it is",
+    "write a comment for this, not great post energy",
+    "going through my engage list, here are 3 posts to comment on",
+    "how do I respond to this person's linkedin post without sounding salesy"
+  ],
+  "should_not_trigger": [
+    "reply to the comments people left on MY post",
+    "write a linkedin post about our launch",
+    "comment on this instagram reel",
+    "what should I say in a DM to this person",
+    "triage my linkedin messages",
+    "plan who I should engage with this week"
+  ]
+}

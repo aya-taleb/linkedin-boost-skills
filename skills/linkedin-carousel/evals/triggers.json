@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "make a linkedin carousel about our 4 step lunch setup",
+    "turn this post into slides for linkedin",
+    "I want to do a PDF document post on linkedin",
+    "swipe post for linkedin from my how-to notes",
+    "can you build the carousel PDF so I can upload it",
+    "carousel version of my best post from last month"
+  ],
+  "should_not_trigger": [
+    "make an instagram carousel with images",
+    "make a pitch deck for investors",
+    "write a linkedin text post",
+    "design a flyer for the food truck event",
+    "make slides for my class presentation",
+    "repurpose my webinar into a week of posts"
+  ]
+}

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-score-mine
+expected_outcome: |
+  The three user hooks scored first, with notes on stock phrases, bait and Frameleaf's words to avoid (AI-powered, game-changer). The niece line is flagged because a family member detail is not in proof and children are off-limits in specific ways, or at least checked with the user. Up to 3 improved versions that keep the user's words.
+context:
+  scaffold_script: place-files.sh

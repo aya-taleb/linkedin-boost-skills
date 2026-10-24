@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-boost-skills",
+  "owner": {
+    "name": "Aya Taleb",
+    "url": "https://github.com/aya-taleb"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-boost-skills",
+      "source": "./",
+      "description": "Claude skills that help a founder grow on LinkedIn across several businesses: posts, plans, hooks, DMs, comments, replies, inbox, carousels, profile and audits. Skills write; you post."
+    }
+  ]
+}

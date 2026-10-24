@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: two-ventures-profile
+expected_outcome: |
+  A score out of 100 with reasons for lost points, rewrites in fix-first order, headline options under 220 characters with counts leading with Lunch Lane, the top of About under about 300 characters, Frameleaf shown as also building, Experience rewrites using only real proof, placeholders for gaps, saved to the lunch-lane profile.md.
+context:
+  scaffold_script: place-files.sh

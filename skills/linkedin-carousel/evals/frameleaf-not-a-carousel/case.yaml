@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-not-a-carousel
+expected_outcome: |
+  The skill says this is a single story that likely works better as a text post, offers linkedin-post, or if it builds a carousel keeps the story true with no invented detail and no claims about learning outcomes. No child's name.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "go through my linkedin messages and tell me who to answer",
+    "is this linkedin message a scam? someone wants my passport for a job",
+    "triage my linkedin inbox, I exported it",
+    "help me reply to these linkedin DMs",
+    "I have 40 unread linkedin messages, which matter",
+    "which of these linkedin messages are about lunch lane and which about frameleaf"
+  ],
+  "should_not_trigger": [
+    "write a connection note to this office manager",
+    "triage my gmail inbox",
+    "reply to the comments under my post",
+    "draft a follow up to someone who accepted my invite",
+    "write an email to my investor",
+    "what should I post this week"
+  ]
+}

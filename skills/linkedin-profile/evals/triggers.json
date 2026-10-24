@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "fix my linkedin profile",
+    "rewrite my linkedin headline",
+    "review my about section on linkedin",
+    "how do I show two businesses on my linkedin profile",
+    "score my linkedin profile, pasting it",
+    "what should go in my featured section"
+  ],
+  "should_not_trigger": [
+    "fix my instagram bio",
+    "write my resume",
+    "audit my linkedin posts",
+    "write a linkedin post introducing my new venture",
+    "write a bio for the conference program",
+    "update my founder context file for lunch lane"
+  ]
+}

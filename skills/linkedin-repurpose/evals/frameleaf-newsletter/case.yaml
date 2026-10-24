@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-newsletter
+expected_outcome: |
+  An idea map, 3 or so standalone Frameleaf posts using only newsletter facts (140 users, narration in 3 weeks, 4 minutes, class votes on endings, pricing test next month), no learning outcome claims, no invented numbers, drafts saved in the frameleaf folder.
+context:
+  scaffold_script: place-files.sh

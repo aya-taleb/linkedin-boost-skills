@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-two-months
+expected_outcome: |
+  The audit script is run on posts.csv; posts ranked against the median rate; story posts about trucks on top, offer posts at the bottom; the 10-23 post listed as no numbers yet; the sample size caveat (8 posts); three changes tied to evidence; saved to audit.md; linkedin-plan named.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-own-posts
+expected_outcome: |
+  A comparison of A and B with concrete reasons (A has a person, a refusal or reversal, a result; B is an announcement with stock phrasing and no story), no invented numbers like follower count, a note that two posts are a small sample, and an adapted pattern for future Frameleaf posts.
+context:
+  scaffold_script: place-files.sh

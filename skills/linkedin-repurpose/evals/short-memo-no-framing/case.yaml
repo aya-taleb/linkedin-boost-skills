@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: short-memo-no-framing
+expected_outcome: |
+  A short idea map and 1 to 3 Lunch Lane posts, since the memo is short. Every line traces to
+  the memo: second Thursday truck three weeks ago, orders 40 to 70, the office manager's veggie
+  request, Mai's best weekday, and the open question about why. No post says the veggie truck
+  caused the jump. No new numbers (no computed percentages), no added lesson, scene or feeling,
+  no claims about readers. Drafts saved under ~/.founder/social/linkedin/lunch-lane/drafts/
+  with a source line.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "why did this linkedin post go viral? pasting it below",
+    "build me a linkedin swipe file from these saved posts",
+    "break down these top posts in my niche",
+    "my first post did 10x my second, what's the difference",
+    "I love how this person writes on linkedin, help me learn from it",
+    "what patterns do these 8 high performing linkedin posts share"
+  ],
+  "should_not_trigger": [
+    "find viral reels in my niche on instagram",
+    "audit my last month of linkedin posts with the numbers",
+    "write a linkedin post about our sold out day",
+    "score these hooks",
+    "write a comment for this post",
+    "repurpose my podcast episode into posts"
+  ]
+}

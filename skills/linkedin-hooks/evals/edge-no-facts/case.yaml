@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-no-facts
+expected_outcome: |
+  The skill does not produce confident hooks with invented facts. It says the idea has no specific fact and asks what happened, or writes hooks with placeholders, and notes that low scores mean a real number or moment is missing.
+context:
+  scaffold_script: place-files.sh

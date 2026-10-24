@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "write a linkedin post about us hitting 200 beta users",
+    "turn this into a LinkedIn post: our pho truck sold out in 40 minutes today",
+    "can you draft tuesday's linkedin post from my plan",
+    "I want to share on LinkedIn that we got our first property manager partner",
+    "linkedin post for frameleaf about the narration feature we shipped",
+    "make this rambling note into something I can post on linkedin"
+  ],
+  "should_not_trigger": [
+    "write an instagram caption for our taco truck photo",
+    "reply to the comments on my linkedin post",
+    "what should I post on linkedin this week",
+    "rewrite my linkedin headline",
+    "write a cold email to an office manager",
+    "give me 8 hook options and score them, I'll write the post myself"
+  ]
+}

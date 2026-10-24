@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-new-office
+expected_outcome: |
+  A post for Lunch Lane (the active business) built on the 7th office and the word of mouth at a building meetup. Hook options with scores, one full draft, a preview of what shows before see more on mobile and desktop, cleaned writing, a copy-ready block, and a reminder that the user posts it. The design studio is not named.
+context:
+  scaffold_script: place-files.sh

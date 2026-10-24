@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: two-businesses-budget
+expected_outcome: |
+  Two plan files, one per business, with 4 posts in total, the split explained, never two businesses on the same day, Frameleaf slots using the narration and 22 signups, Lunch Lane slots using proof from its file since there is no news.
+context:
+  scaffold_script: place-files.sh

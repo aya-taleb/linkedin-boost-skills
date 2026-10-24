@@ -1,0 +1,177 @@
+{
+  "repo": "linkedin-boost-skills",
+  "owner": "aya-taleb",
+  "skills": [
+    {
+      "name": "linkedin-post",
+      "status": "reworked",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-post",
+        "license": "MIT"
+      }
+    },
+    {
+      "name": "linkedin-plan",
+      "status": "reworked",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-plan",
+        "license": "MIT"
+      }
+    },
+    {
+      "name": "linkedin-hooks",
+      "status": "ours",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null
+    },
+    {
+      "name": "linkedin-dm",
+      "status": "reworked",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-dm",
+        "license": "MIT"
+      },
+      "synced_to": [
+        "biz-boost-skills"
+      ]
+    },
+    {
+      "name": "linkedin-viral",
+      "status": "ours",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null
+    },
+    {
+      "name": "linkedin-comment",
+      "status": "rewritten",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null,
+      "replaces": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-comment"
+      }
+    },
+    {
+      "name": "linkedin-reply",
+      "status": "rewritten",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null,
+      "replaces": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-reply"
+      }
+    },
+    {
+      "name": "linkedin-inbox",
+      "status": "rewritten",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null,
+      "replaces": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-inbox"
+      }
+    },
+    {
+      "name": "linkedin-carousel",
+      "status": "rewritten",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null,
+      "replaces": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-carousel"
+      }
+    },
+    {
+      "name": "linkedin-repurpose",
+      "status": "rewritten",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null,
+      "replaces": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-repurpose"
+      }
+    },
+    {
+      "name": "linkedin-profile",
+      "status": "rewritten",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null,
+      "replaces": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-profile"
+      }
+    },
+    {
+      "name": "linkedin-audit",
+      "status": "rewritten",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0",
+      "source": null,
+      "replaces": {
+        "author": "Jake Schincariol",
+        "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+        "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+        "path": "skills/li-audit"
+      }
+    },
+    {
+      "name": "humanize",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "founder-context",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "transcribe",
+      "status": "synced",
+      "home": "multimedia-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "talking-head-cards",
+      "status": "synced",
+      "home": "multimedia-skills",
+      "version": "0.1.0"
+    }
+  ]
+}

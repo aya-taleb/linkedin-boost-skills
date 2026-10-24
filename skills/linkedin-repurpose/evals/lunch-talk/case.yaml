@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-talk
+expected_outcome: |
+  An idea map with timestamps and strength, 3 to 5 standalone Lunch Lane posts from strong ideas (front desk walk-ins, the office manager quote, 9am texts to trucks, parades and checking the events calendar, per office pricing without numbers), exact quote marked, Frameleaf idea set aside, no pricing numbers invented, drafts saved with source lines, and a carousel or clip suggestion.
+context:
+  scaffold_script: place-files.sh

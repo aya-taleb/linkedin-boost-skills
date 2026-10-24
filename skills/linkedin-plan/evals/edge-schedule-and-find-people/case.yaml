@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-schedule-and-find-people
+expected_outcome: |
+  The skill plans but does not schedule, explaining that plans are text and the user posts. It does not invent 10 named people; it asks for names or points to the user's own lists. It asks what happened this week or plans thin using proof.
+context:
+  scaffold_script: place-files.sh

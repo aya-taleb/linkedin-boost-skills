@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-peer-post
+expected_outcome: |
+  Options in Frameleaf's tone, one perhaps drawing on Frameleaf's real proof (the founder builds alone, 140 beta users), an ask or add option, no invented results, under the comment limit.
+context:
+  scaffold_script: place-files.sh
