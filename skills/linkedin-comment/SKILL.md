@@ -68,6 +68,10 @@ Write 2 or 3 options, each doing a different job. Choose the jobs that fit this 
   says it, and in a comment it reads as a pitch. Comments that sell get ignored and hurt
   the user's name with the author.
 - No made-up experience. If the founder has not done the thing, do not imply they have.
+- No made-up examples. Do not invent a person, a name or a case to show a point ("say Mina
+  has a sesame allergy"), even flagged as made up: it still reads as real once posted. Use
+  the post's own example, a fact from the business file, or keep the point general.
+- Proof in the business file is cleared for use. Only the off-limits line is off limits.
 - Use the business's tone words. Never use its words to avoid.
 - No hashtags. No emoji unless the business file says the founder uses them.
 

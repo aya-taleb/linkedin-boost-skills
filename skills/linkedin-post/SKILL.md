@@ -87,7 +87,8 @@ Close      one specific question or one instruction, never both
   post needs it to make sense, and at most one or two. A post stuffed with every proof
   point reads like an ad.
 - Use only proof from the business file or the user's own words. A missing number becomes
-  `{{your number}}`, flagged in the receipt. Never invent a client, a quote or a result.
+  `{{your number}}`, flagged in the receipt. Never invent a client, a quote, a result or an
+  example person to show a point. Proof is cleared for use; only the off-limits line is off limits.
 - Do not invent framing either: no claims about what other people feel or do ("office
   managers always..."), no made-up feelings for the founder, no thanks to people the user
   did not mention, and no "we never pitched them" or "they got in touch" unless the user said

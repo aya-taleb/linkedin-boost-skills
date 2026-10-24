@@ -280,3 +280,28 @@ and outreach logs, and li-human as text only (no humanize.py or detect.py).
 | linkedin-comment | edge-layoff-post | ours | 45 | 35 | 0 | Said this is not a place to get noticed and offered one short note of support. Jake's wrote two strategic visibility comments on a layoff post. |
 | linkedin-dm | lunch-leads-batch | ours | 42 | 30 | 0 | Picked Dana and Jordan, skipped Sam (already contacted), Priya (no reason), Lee (do not contact) and Maria (other business). Jake's skipped Jordan, ignored the log and made claims up. Ours: follow-up 1 drafts are weak with small inferences. |
 | linkedin-dm | frameleaf-one-teacher | ours | 40 | 29 | 0 | Full sequence for Maria with counts and no outcome claims. Jake's missed the voice file and asked for facts it had. Ours gives little before the ask and wrongly called '140 beta users' off limits. |
+
+## Polish round (Oct 24)
+
+Method: each fix was rerun in fresh, isolated `claude -p` runs (own HOME, own project folder,
+only the skill plus founder-context and humanize where the repo has them). The new version ran
+against the current version (the last commit) on the same eval case. A separate `claude -p`
+judge saw both outputs as A and B and scored them out of 50, once in each label order. A fix
+ships only if it wins or ties in both orders. Scores are new / current. Runs, judge packets
+and keys: `/home/claude/build/_work/polish/`.
+
+| skill | case | round | order A-new | order A-current | result |
+| --- | --- | --- | --- | --- | --- |
+| linkedin-comment | lunch-buyer-post | r1 | won 46/43 | won 45/43 | shipped |
+| linkedin-dm | lunch-leads-batch | r1 | won 45/38 | won 42/36 | shipped |
+| linkedin-dm | frameleaf-one-teacher | r1 | won 45/41 | won 43/42 | shipped |
+| linkedin-post | lunch-new-office | r1 | won 46/43 | won 43/42 | shipped |
+
+What changed:
+- linkedin-dm 0.1.1 (synced to biz-boost-skills): proof is cleared for use and only the
+  off-limits line is off limits; every sentence traces to the file, the lead row or the user;
+  follow-up 1 may use an unused proof item as a plain fact, with nothing added around it.
+- linkedin-comment 0.1.1: no made-up example people or cases, even flagged. This is where the
+  reviewer's invented example person came from (the review table lists it under
+  linkedin-comment, not linkedin-post).
+- linkedin-post 0.1.1: one line, no invented example person; proof is cleared for use.

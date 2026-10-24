@@ -6,7 +6,7 @@
       "name": "linkedin-post",
       "status": "reworked",
       "home": "linkedin-boost-skills",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": {
         "author": "Jake Schincariol",
         "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
@@ -39,7 +39,7 @@
       "name": "linkedin-dm",
       "status": "reworked",
       "home": "linkedin-boost-skills",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": {
         "author": "Jake Schincariol",
         "repo": "https://github.com/Jakeschincariol/linkedin-agent-skill",
@@ -62,7 +62,7 @@
       "name": "linkedin-comment",
       "status": "rewritten",
       "home": "linkedin-boost-skills",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": null,
       "replaces": {
         "author": "Jake Schincariol",
