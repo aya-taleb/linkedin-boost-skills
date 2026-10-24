@@ -205,7 +205,7 @@ open issues: none
 
 - "See more" cutoffs: LinkedIn does not publish them. We use about 3 lines or 140 characters on mobile and about 5 lines or 210 on desktop (3 lines for posts with media), from four third-party pages checked 2026-10-23 (sources in references/limits.md). LinkedIn Help pages block automated reading, so they could not be checked directly.
 - Invitation note limit: 200 characters (it used to be 300), and free accounts get about 3 personalized notes a month, per Hublead's reading of LinkedIn Help on 2026-09-19.
-- Daily invite limit: default 15 a day and a hard stop at 100 a week. LinkedIn publishes no number; 100 a week is a widely observed ceiling, and 15 a day leaves room. The tool warns above 20.
+- Daily invite limit: default 5 a day and a hard stop at 50 a week (changed Oct 24 from 15 and 100). LinkedIn publishes no number; 100 a week is a widely observed ceiling, and 15 a day leaves room. The tool warns above 20.
 - humanize and founder-context did not exist yet in entrepreneur-skills, so every skill calls humanize when installed and otherwise follows references/writing-check.md by hand, and says which it used.
 - Per-business folder ~/.founder/social/linkedin/<slug>/ holds posts.csv, plan.md, drafts/, hooks.md, swipe.md, outreach.csv, warm-leads.csv, comments.md, inbox.md, carousels/, profile.md, audit.md. posts.csv is the one log every skill shares; its column order is fixed in postlog.py.
 - warm-leads.csv (from reply and inbox) is a LinkedIn-only file with columns date,name,role,company,source,reason,status. It is not sales/leads.csv, because those people came to us and have no fit score yet. Aya may want lead-gen to merge it later.

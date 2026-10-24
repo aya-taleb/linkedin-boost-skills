@@ -21,7 +21,7 @@ should look at. Test numbers are in TESTING.md.
 
 ## Needs Aya
 
-- **Default daily invite limit.** linkedin-dm defaults to 15 a day and stops at 100 a week.
+- **Default daily invite limit.** linkedin-dm defaults to 5 a day and stops at 50 a week (Aya's call, Oct 24; was 15 and 100).
   If Aya has Premium or Sales Navigator, she may want a different number; it is one flag
   (`--limit`).
 - **The weighted rate in linkedin-audit** (comments 3x; reposts, saves, sends 2x) is our

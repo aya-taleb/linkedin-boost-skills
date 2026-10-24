@@ -66,7 +66,7 @@ class DmQueueTests(unittest.TestCase):
         leads = self.sample(5)
         log = [{"date": (DAY - dt.timedelta(days=1)).isoformat(), "name": "x%d" % i, "company": "",
                 "step": "invite"} for i in range(dmqueue.WEEKLY_CEILING)]
-        chosen, *_ , room = dmqueue.pick(leads, log, DAY, 15)
+        chosen, *_ , room = dmqueue.pick(leads, log, DAY, 5)
         self.assertEqual(room, 0)
         self.assertEqual(chosen, [])
 
